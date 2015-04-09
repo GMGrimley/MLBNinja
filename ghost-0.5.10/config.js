@@ -10,7 +10,7 @@ config = {
     // When running Ghost in the wild, use the production environment
     // Configure your URL and mail settings here
     production: {
-        url: 'http://gmgrimley.github.io/MLBNinja',
+        url: 'http://gmgrimley.github.io/MLBNinja/ghost-0.5.10',
         mail: {},
         database: {
             client: 'sqlite3',
